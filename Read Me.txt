@@ -1,0 +1,24 @@
+Perform the following steps to run the project:
+
+Step 1: For Arduino:
+
+	1. Run arduino-1.8.3.windows.exe application for installation purpose.
+	2. Copy the DHT library and Virtual Wire library to  C:\Program Files (x86)\Arduino\libraries 
+	   For more information on installing libraries ,refer http://www.arduino.cc/en/Guide/Libraries
+
+	3. Before uploading the code , perform the following configurations for UNO and NANO:
+		i.For receiver: Select Tools from menu bar->Board-> Arduino /Genuino/Uno  and select the port that corresponds to the receiver.
+		ii. For transmitter , Select Tools from menu bar->Board-> Arduino Nano and select the port that corresponds to the tramsmitter.
+	4. Upload the trasmitter code on nano and receiver code on uno.
+
+Step 2. For the android application:
+
+	1. Run android-studio.exe file to perform Android Studio installation.
+	2. Run the project 'SixthSense'
+	3. Build the apk file of this project and copy it to the desired mobile device.
+	4. Install the apk on your mobile device
+	5. Your app is now ready to use.
+	6. First register the user and then you can login into the application. 
+	7. Pair your device with 'HC06' with the pairing key - '1234'.
+	8. Click on Open BT button to establish socket connection.
+	9. App is now in working condition.
