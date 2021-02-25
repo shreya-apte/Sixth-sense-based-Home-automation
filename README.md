@@ -1,5 +1,4 @@
 # Sixth-sense-based-Home-automation
 
-• Created multiple data marts comprising of fact tables and dimension tables using star-schema approach for a retail chain
-• Built ETL pipeline for converting raw CSV data into a usable format using SSIS to articulate and answer business questions
-• Generated ad-hoc insights report on customer footfall, trend in product sales, promotions using SSRS, SSAS, Tableau, PowerBI
+• Developed a prototype for a gesture-based home automation system using Sixth Sense Technology using Arduino IDE/C++ for coding sensor calibration and Java/Android Studio for designing the mobile application
+• Published a research paper titled ‘Gesture based Home Automation using Sixth Sense Technology’ in the International Journal of Computer Applications (IJCA); 10.5120/ijca2017915959
